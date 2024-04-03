@@ -1,5 +1,5 @@
 ## Actuator Endpoint Checker
-Actuator Endpoint Checker is a command-line tool designed to check the accessibility of Actuator endpoints in web applications. Actuator endpoints provide insight into the internal state of a running application, making them valuable targets for pentesters to assess the security posture of an application.
+Actuator Endpoint Checker is a command-line tool designed to check the accessibility of Actuator endpoints in web applications. Actuator endpoints provide insight into the internal state of a running application, making them valuable targets for pentesters and bug bounty hunters to assess the security posture of an application.
 
 ## How it works
 The tool takes a base URL and a wordlist file containing endpoint paths as input. It constructs URLs by appending each endpoint path from the wordlist to the base URL and then sends HTTP GET requests to check if the endpoints are accessible. If an endpoint returns a 200 OK status code, it is considered accessible and listed as a result.
