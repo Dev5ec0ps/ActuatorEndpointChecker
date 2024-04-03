@@ -38,3 +38,4 @@ For example:
 - **Flexible and customizable:** Supports custom base URLs and wordlist files, allowing pentesters to tailor the assessment to the specific target application.
 - **Clear and informative output:** Provides clear feedback on accessible endpoints, enabling pentesters to quickly identify potential attack vectors and security vulnerabilities.
 
+## Feel free to contribute
