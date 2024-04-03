@@ -33,7 +33,7 @@ For example:
 ![image](https://github.com/MrLups/ActuatorEndpointChecker/assets/83069165/282bbf24-234b-45f5-9947-36edfc89a0e7)
 
 
-## Why it's awesome for pentesters
+## Why it's awesome for pentesters and bug bounty hunters
 - **Automates endpoint accessibility checks:** Instead of manually testing each endpoint, the tool automates the process, saving time and effort for pentesters.
 - **Flexible and customizable:** Supports custom base URLs and wordlist files, allowing pentesters to tailor the assessment to the specific target application.
 - **Clear and informative output:** Provides clear feedback on accessible endpoints, enabling pentesters to quickly identify potential attack vectors and security vulnerabilities.
