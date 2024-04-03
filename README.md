@@ -32,6 +32,9 @@ For example:
    
 ![image](https://github.com/MrLups/ActuatorEndpointChecker/assets/83069165/282bbf24-234b-45f5-9947-36edfc89a0e7)
 
+or you can save the results into a file
+
+`python actuator.py -u https://example.com -w wordlist.txt >> ActuatorResult.txt`
 
 ## Why it's awesome for pentesters and bug bounty hunters
 - **Automates endpoint accessibility checks:** Instead of manually testing each endpoint, the tool automates the process, saving time and effort for pentesters.
