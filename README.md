@@ -13,11 +13,11 @@ The tool takes a base URL and a wordlist file containing endpoint paths as input
 ## How to use
 1. **Clone the repository** to your local machine:
 
-`git clone https://github.com/your-username/actuator-endpoint-checker.git`
+`git clone https://github.com/Dev5ec0ps/ActuatorEndpointChecker.git`
 
 2. **Navigate** to the directory containing the script:
 
-`cd actuator-endpoint-checker`
+`cd ActuatorEndpointChecker`
 
 3. **Run the tool** with the following command:
 
